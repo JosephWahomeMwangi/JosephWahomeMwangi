@@ -86,29 +86,37 @@ My work sits at the intersection of front-end development, WordPress customizati
 
 ## 🚀 Featured Projects
 
-### [iPad Air Landing Page Clone](https://github.com/JosephWahomeMwangi/iPad-Air-Landing-Page-Clone)
+These are practical portfolio projects built around the work I want to do most: business websites, WordPress support, WooCommerce setup, PHP systems, and digital transformation tools.
 
-A product-style landing page rebuilt with HTML, Tailwind CSS, JavaScript, GSAP, and Vite. The project highlights responsive layout, clean UI structure, front-end interactions, and motion effects.
+### [Nairobi Business Starter Site](https://github.com/JosephWahomeMwangi/nairobi-business-starter-site)
 
-**Focus:** Frontend development, responsive design, UI animation, product presentation.
+A responsive business website starter for small businesses, consultants, shops, and local service providers. It includes a polished homepage, services section, process section, contact form layout, mobile navigation, and clean front-end structure.
 
-### [Beginners Toolkit with GenAI](https://github.com/JosephWahomeMwangi/Beginners-Toolkit-with-GenAI)
+**Focus:** HTML, CSS, JavaScript, responsive design, business website structure, client-ready landing pages.
 
-A learning-focused project exploring how generative AI can support beginners in technical and digital workflows.
+### [WordPress Site Care Audit Plugin](https://github.com/JosephWahomeMwangi/wordpress-site-care-audit-plugin)
 
-**Focus:** AI-assisted learning, beginner enablement, digital workflows.
+A WordPress admin plugin for reviewing website care essentials such as backups, updates, security, SSL, SEO basics, speed, forms, and content hygiene. It gives site owners and developers a simple checklist for maintenance and handover workflows.
 
-### [Python for Data Science](https://github.com/JosephWahomeMwangi/Python-for-Data-Science-)
+**Focus:** PHP, WordPress Plugin API, admin pages, option saving, site maintenance workflows.
 
-A data science learning repository focused on Python fundamentals, analysis, and practical exercises.
+### [WooCommerce Store Launch Checklist](https://github.com/JosephWahomeMwangi/woocommerce-store-launch-checklist)
 
-**Focus:** Python basics, data analysis foundations, practice-driven learning.
+A WooCommerce launch helper plugin for checking payments, shipping, taxes, products, checkout, emails, policies, and test orders before a store goes live. It is designed for practical e-commerce setup and client sign-off.
 
-### [Generative AI in JavaScript Web Projects](https://github.com/JosephWahomeMwangi/integrating-generative-ai-into-javascript-web-projects-3813070)
+**Focus:** WooCommerce support, WordPress admin workflows, e-commerce launch planning, PHP.
 
-A JavaScript and AI learning repository exploring how generative AI can be integrated into web development workflows.
+### [PHP Client Request Portal](https://github.com/JosephWahomeMwangi/php-client-request-portal)
 
-**Focus:** JavaScript, generative AI, web development experimentation.
+A lightweight PHP and MySQL portal for collecting website support, WordPress fixes, hosting issues, WooCommerce requests, and redesign inquiries from clients. It uses PDO, form validation, database storage, and a clean support dashboard layout.
+
+**Focus:** PHP, MySQL, PDO, form handling, business systems, client support workflows.
+
+### [Digital Transformation Readiness Dashboard](https://github.com/JosephWahomeMwangi/digital-transformation-readiness-dashboard)
+
+An interactive browser dashboard that scores a business across website presence, operations, sales, marketing, data, and automation. It turns digital transformation conversations into a simple assessment tool with practical recommendations.
+
+**Focus:** JavaScript, dashboard UI, business analysis, digital transformation consulting.
 
 ---
 
